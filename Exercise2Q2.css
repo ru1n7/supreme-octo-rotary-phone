@@ -1,0 +1,35 @@
+body{
+	height: 2200px;
+	background: linear-gradient(#fd00ff, #00ff38, #fdff00); 
+
+	overflow-x: hidden;
+	text-align: center;
+	font-family: Constantia;
+}
+
+h1{
+	color: greenyellow;
+	text-shadow: 2px 2px #fd00ff;
+}
+
+p{
+	text-align: center;
+	color: magenta;
+	text-shadow: 2px 2px white;
+}
+
+span{
+	text-transform: uppercase;
+	text-transform: bold;
+}
+
+div{
+	text-transform: italic;
+	text-shadow: 2px 2px white;
+}
+
+footer{
+	text-transform: uppercase;
+	color: black;
+	text-shadow: 2px 2px white;
+}
